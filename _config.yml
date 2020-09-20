@@ -22,8 +22,8 @@ title: William Luce
 email: luce.williamt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place where I write things down.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /
+url: http://USERNAME.github.io
 twitter_username: williamtluce
 github_username:  WillLuce
 
